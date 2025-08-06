@@ -14,7 +14,7 @@
 **Other**: Git, Flask, LangChain, Jupyter
 
 ## Let’s Connect
-- LinkedIn: [carrieyxia](https://www.linkedin.com/in/carrieyxia/)
+- LinkedIn: [carrie-yu-xia](https://www.linkedin.com/in/carrie-yu-xia/)
 - GitHub: [@carrieyxia](https://github.com/carrieyxia)
 
 <!--
