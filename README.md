@@ -1,4 +1,21 @@
-## Hi there 👋
+## Hi there, I'm Carrie(Yu) Xia 👋
+
+## About Me
+
+- Master’s in Applied Analytics from Boston College
+- Background in business analytics, product data, and statistical modeling
+- Comfortable working across Python, SQL, Tableau, Power BI, and cloud APIs
+- Enjoy building data tools and pipelines that power insights and impact
+
+## Technical Skills
+**Languages**: Python, SQL, R  
+**Libraries**: pandas, NumPy, scikit-learn, PyTorch, TensorFlow  
+**Data & Tools**: SQL Server, PostgreSQL, Tableau, Power BI  
+**Other**: Git, Flask, LangChain, Jupyter
+
+## Let’s Connect
+- LinkedIn: [carrieyxia](https://www.linkedin.com/in/carrieyxia/)
+- GitHub: [@carrieyxia](https://github.com/carrieyxia)
 
 <!--
 **carrieyxia/carrieyxia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
