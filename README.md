@@ -10,6 +10,7 @@
 **Languages**: Python, SQL, R  
 **Libraries**: pandas, NumPy, scikit-learn, PyTorch, TensorFlow  
 **Data & Tools**: PostgreSQL, Tableau, Power BI, GCP, AWS
+
 **Other**: Git, Flask, LangChain, Jupyter
 
 ## Projects
