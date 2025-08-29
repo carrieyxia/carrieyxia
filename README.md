@@ -13,21 +13,24 @@
 **Data & Tools**: SQL Server, PostgreSQL, Tableau, Power BI  
 **Other**: Git, Flask, LangChain, Jupyter
 
+## Projects
+### [LinkedIn Content Creator](https://github.com/carrieyxia/LinkedIn-Content-Generator)
+Automates the creation of recruiter-style LinkedIn job posts using GPT-3.5-Turbo. Implemented via two approaches:
+- Prompt engineering with LangChain + GPT-3.5-Turbo
+- Fine-tuning GPT-3.5-Turbo on custom recruiter-style job post data  
+**Impact:** The fine-tuned model produced more consistent, structured posts and proved significantly more cost-effective during inference.  
+
+---
+
+### [Potential Customer Prediction](https://github.com/carrieyxia/potential_customers_prediction)
+A lead-conversion prediction project for an EdTech startup (ExtraaLearn). It helps identify which leads are most likely to convert into paying customers.
+- Includes lead scoring using machine learning, feature analysis, and lead profile generation to optimize customer acquisition strategy  
+
+---
+
+### [Recommendation System](https://github.com/carrieyxia/personalized_product_recommendation_system)
+Developed a product recommendation engine using Amazon review data to simulate real-world e-commerce personalization.  
+
 ## Let’s Connect
 - LinkedIn: [carrie-yu-xia](https://www.linkedin.com/in/carrie-yu-xia/)
 - GitHub: [@carrieyxia](https://github.com/carrieyxia)
-
-<!--
-**carrieyxia/carrieyxia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
