@@ -21,8 +21,6 @@ Automates the creation of recruiter-style LinkedIn job posts using GPT-3.5-Turbo
 ### [Potential Customer Prediction](https://github.com/carrieyxia/potential_customers_prediction)
 A lead-conversion prediction project for an EdTech startup (ExtraaLearn). It helps identify which leads are most likely to convert into paying customers.
 - Includes lead scoring using machine learning, feature analysis, and lead profile generation to optimize customer acquisition strategy  
-### [Recommendation System](https://github.com/carrieyxia/personalized_product_recommendation_system)
-Developed a product recommendation engine using Amazon review data to simulate real-world e-commerce personalization.  
 
 ## Let’s Connect
 - LinkedIn: [carrie-yu-xia](https://www.linkedin.com/in/carrie-yu-xia/)
