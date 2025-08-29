@@ -1,16 +1,15 @@
-## Hi there, I'm Carrie(Yu) Xia 👋
-
+# Hi there, I'm Carrie(Yu) Xia 👋
 ## About Me
 
 - Master’s in Applied Analytics from Boston College
-- Background in business analytics, product data, and statistical modeling
+- Background in business analytics, statistical modeling, and machine learning
 - Comfortable working across Python, SQL, Tableau, Power BI, and cloud APIs
-- Enjoy building data tools and pipelines that power insights and impact
+- Enjoy building data models and solutions that power insights and impact
 
 ## Technical Skills
 **Languages**: Python, SQL, R  
 **Libraries**: pandas, NumPy, scikit-learn, PyTorch, TensorFlow  
-**Data & Tools**: SQL Server, PostgreSQL, Tableau, Power BI  
+**Data & Tools**: PostgreSQL, Tableau, Power BI, GCP, AWS
 **Other**: Git, Flask, LangChain, Jupyter
 
 ## Projects
