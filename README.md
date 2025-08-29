@@ -18,13 +18,9 @@ Automates the creation of recruiter-style LinkedIn job posts using GPT-3.5-Turbo
 - Prompt engineering with LangChain + GPT-3.5-Turbo
 - Fine-tuning GPT-3.5-Turbo on custom recruiter-style job post data  
 **Impact:** The fine-tuned model produced more consistent, structured posts and proved significantly more cost-effective during inference.  
----
 ### [Potential Customer Prediction](https://github.com/carrieyxia/potential_customers_prediction)
 A lead-conversion prediction project for an EdTech startup (ExtraaLearn). It helps identify which leads are most likely to convert into paying customers.
 - Includes lead scoring using machine learning, feature analysis, and lead profile generation to optimize customer acquisition strategy  
-
----
-
 ### [Recommendation System](https://github.com/carrieyxia/personalized_product_recommendation_system)
 Developed a product recommendation engine using Amazon review data to simulate real-world e-commerce personalization.  
 
